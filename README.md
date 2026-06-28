@@ -1,4 +1,5 @@
-CS 210 Module Eight Journal 
+# CS 210 Portfolio – Corner Grocer Project
+##CS 210 Module Eight Journal 
 
 Project Chosen: Corner Grocer 
 
