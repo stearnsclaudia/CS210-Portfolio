@@ -1,0 +1,17 @@
+CS 210 Module Eight Journal 
+
+Project Chosen: Corner Grocer 
+
+The Corner Grocer application takes in a file with grocery store purchases as an input and searches for individual item frequencies, displays the frequency of all items, and plots a histogram with the purchase counts. The programs demonstrates my knowledge and ability to read files, utilize object-oriented programming, separate code into different source files, and implement a menu-driven user interface.
+
+One thing that I think I did well in this project was splitting up the program into different files with a class, header file, and cpp file. I enjoyed seeing how cleanly the code flowed once I divided the responsibilities into the main.cpp file and CornerGrocer.cpp/h files. I also paid close attention to commenting my code and using descriptive names for functions so that it would be clear to another programmer what the program is doing.
+
+If I could spend more time on this project I would improve the validation and error checking. While I made sure that files opened properly and that the user entered valid menu selections I could have added more error checking for unexpected user input and file errors. I could also sort the grocery items and implement additional features for reporting.
+
+The part of this project that took me the longest to complete was reading in the information from the data file and properly storing and updating the frequencies in a map. I had to spend some time really understanding how the maps stored information by key and how to update the counts associated with each key. To solve this problem, I went back and reviewed the modules and read through C++ documentation on maps. I tested the program with different input files ensuring that each function was working properly before testing the program as a whole.
+
+I feel as if this project helped me solidify my understanding of many fundamental programming concepts. I gained practice with object oriented programming, file I/O, maps, functions, loops, if statements, and organizing code into a structured and modular program. I also learned how to better troubleshoot and debug a program by testing each function and implementing changes to fix errors.
+
+To make this program reusable for others and myself in the future, I made sure to divide the code into functions, keep related portions of code in the class, use descriptive names for variables and functions, and comment my code. With this structure, any additional features or changes can be made to specific functions without breaking the entire program.
+
+This project will allow me to excel in this class because I can use maps to efficiently store and retrieve information. I can build off of previous projects by using OOP techniques demonstrated in this application. This program can serve as a great example for my portfolio because it showcases my knowledge of maps and file I/O as well as my ability to structure a quality software application.
